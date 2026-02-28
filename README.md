@@ -1,1 +1,1 @@
-# small-ideas-Code
+小code
